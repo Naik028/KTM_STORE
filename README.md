@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# Welcome to KTM Store
+In this project i have written a java program such that a person can purchase a Ktm bike from ktm store
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+there are 4 Models in the store
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Duke 200
+Duke125
+Rc390
+Adventure390
+
+Before purchasing the customer will get all the features and specifaction of the selected bike.
+
+So out of this 4 model the customer can purchase this bike.
+
+I have make use of most of tehe java oops concepts like polymorphism,inheritance,multithreading etc.
